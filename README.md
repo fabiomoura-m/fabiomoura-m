@@ -1,7 +1,7 @@
 ### Olá, sou o Fabio  👋
 ##
 <div>
-  - 🎓 Aluno e monitor do curso de desenvolvimento fullstack da MACH1. <br>
+  - 🎓 Aluno e monitor do curso de programador fullstack da MACH1. <br>
   - 👨‍💻 Desenvolvendo meus conhecimentos em novas tecnologias, atualmente aprendendo mais sobre ReactJS. <br><br> 
 </div>
 
