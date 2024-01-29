@@ -9,11 +9,11 @@
   <a href="https://www.linkedin.com/in/fabiomoura-m" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
-<div>
-  <a href="https://github.com/fabiomoura-m">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiomoura-m&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomoura-m&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div align="left">
+  
+[![Fabio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomoura-m&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
 <br>
 
@@ -23,4 +23,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
 <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
