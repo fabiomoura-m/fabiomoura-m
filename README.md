@@ -1,7 +1,7 @@
 ### Olá, sou o Fabio  👋
 ##
 <div>
-  - 👨‍💻 Desenvolvedor web jr na <a href = "https://agenciar8.com.br/" target="_blank">Agência R8</a>. </br>
+  - 👨‍💻 Desenvolvedor web </br>
   - 👨‍💻 Desenvolvendo meus conhecimentos em novas tecnologias, atualmente aprendendo mais sobre ReactJS. <br><br> 
 </div>
 
