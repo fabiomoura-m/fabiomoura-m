@@ -2,7 +2,7 @@
 ##
 <div>
   - 👨‍💻 Desenvolvedor web </br>
-  - 👨‍💻 Desenvolvendo meus conhecimentos em novas tecnologias, atualmente aprendendo mais sobre ReactJS. <br><br> 
+  - 👨‍💻 Desenvolvendo diariamente meus conhecimentos em novas tecnologias <br><br> 
 </div>
 
   <a href = "mailto:fabio.mmouras@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
